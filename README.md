@@ -1,6 +1,3 @@
 # **Orpheus-Edge-TTS-Demo**
 
-
-https://github.com/user-attachments/assets/550e755a-9e50-45a4-8763-b812ac55a4c2
-
- 
+https://github.com/user-attachments/assets/1896b9bc-dccf-4180-9e1d-5e658cf4e3e5
