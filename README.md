@@ -4,6 +4,9 @@ https://github.com/user-attachments/assets/1896b9bc-dccf-4180-9e1d-5e658cf4e3e5
 
 Orpheus TTS, a Llama-based Speech-LLM designed for high-quality, empathetic text-to-speech generation. This model has been fine-tuned to deliver human-level speech synthesis 
 
+> [!WARNING]
+> Don't forget to add the `HF_TOKEN` to the environment to access the gated Hugging Face models.
+
 ## Features
 
 ### 1. **Multimodal Input Support**
